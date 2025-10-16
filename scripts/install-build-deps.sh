@@ -82,10 +82,10 @@ $APT_COMMAND install -qy - --no-install-recommends \
     gettext \
     git \
     gnupg2 \
-    jack \
     libcdio-cdda-dev \
     libcdio-dev \
     libcdio-paranoia-dev \
+    libjack-dev \
     libkf6config-dev \
     libkf6coreaddons-dev \
     libkf6i18n-dev \
