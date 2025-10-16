@@ -30,7 +30,7 @@ set -e
 
 # -- Download Source
 
-git clone --depth 1 --branch "$MAUIKIT_AUDIO_BRANCH" https://invent.kde.org/maui/mauikit-audio.git
+git clone --depth 1 --branch "$MAUIKIT_AUDIO_BRANCH" https://invent.kde.org/camiloh/mauikit-audio.git
 
 rm -rf mauikit-audio/{examples,LICENSE,README.md}
 
