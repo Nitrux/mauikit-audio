@@ -63,7 +63,8 @@ $APT_COMMAND install -y - --no-install-recommends \
     qt6-base-dev \
     qt6-base-private-dev \
     qt6-declarative-dev \
-    qt6-declarative-private-dev
+    qt6-declarative-private-dev \
+    qt6-multimedia-dev
 
 
 # -- Add package from our repository.
