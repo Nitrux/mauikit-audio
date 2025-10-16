@@ -86,7 +86,9 @@ $APT_COMMAND install -qy - --no-install-recommends \
     libkf6coreaddons-dev \
     libkf6i18n-dev \
     libkf6kio-dev \
+    libpulse-dev \
     libqt6qmlcompiler6 \
+    libsoxr-dev \
     lintian \
     qt6-base-dev \
     qt6-base-private-dev \
