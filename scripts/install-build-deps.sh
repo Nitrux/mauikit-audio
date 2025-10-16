@@ -82,13 +82,22 @@ $APT_COMMAND install -qy - --no-install-recommends \
     gettext \
     git \
     gnupg2 \
+    jack \
+    libcdio-cdda-dev \
+    libcdio-dev \
+    libcdio-paranoia-dev \
     libkf6config-dev \
     libkf6coreaddons-dev \
     libkf6i18n-dev \
     libkf6kio-dev \
+    libogg-dev \
+    libpipewire-0.3-dev \
     libpulse-dev \
     libqt6qmlcompiler6 \
+    libshout-dev \
     libsoxr-dev \
+    libspa-0.2-dev \
+    libvorbis-dev \
     lintian \
     qt6-base-dev \
     qt6-base-private-dev \
