@@ -83,6 +83,7 @@ $APT_COMMAND install -qy - --no-install-recommends \
     git \
     gnupg2 \
     libcdio-cdda-dev \
+    libcddb2-dev \
     libcdio-dev \
     libcdio-paranoia-dev \
     libjack-dev \
