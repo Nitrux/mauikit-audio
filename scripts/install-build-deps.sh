@@ -106,6 +106,7 @@ $APT_COMMAND install -qy - --no-install-recommends \
     libmpg123-dev \
     libogg-dev \
     libopus-dev \
+    libopusfile-dev \
     libpipewire-0.3-dev \
     libpostproc-dev \
     libpulse-dev \
