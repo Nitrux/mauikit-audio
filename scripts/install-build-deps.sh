@@ -90,7 +90,6 @@ $APT_COMMAND install -qy - --no-install-recommends \
     libkf6config-dev \
     libkf6coreaddons-dev \
     libkf6i18n-dev \
-    libkf6kio-dev \
     libogg-dev \
     libpipewire-0.3-dev \
     libpulse-dev \
