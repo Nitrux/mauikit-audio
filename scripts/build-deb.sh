@@ -89,7 +89,7 @@ checkinstall -D -y \
 	--pakdir=. \
 	--maintainer=uri_herrera@nxos.org \
 	--provides=mauikit-audio \
-	--requires="libc6,libcddb2,libcdio-cdda2,libcdio-paranoia2,libcdio19,libjack0,libkf6configcore6,libkf6coreaddons6,libkf6i18n6,libkf6iconthemes6,libogg0,libpipewire-0.3-0,libpulse0,libqt6core6,libqt6gui6,libqt6multimedia6,libqt6multimediawidgets6,libqt6qml6,libqt6qmlcompiler6,libqt6quick6,libqt6quickcontrols2-6,libqt6spatialaudio6,libqt6svg6,libqt6svgwidgets6,libshout3,libsoxr0,libspa-0.2-jack,libspa-0.2-modules,libvorbis0a,mauikit \(\>= 4.0.3\),qml6-module-org-kde-kirigami,qml6-module-qtmultimedia,qml6-module-qtquick-controls,qml6-module-qtquick-shapes,qml6-module-qtquick3d-spatialaudio,qt6-declarative" \
+	--requires="libavcodec58,libavdevice58,libavfilter7,libavformat58,libavutil56,libc6,libcddb2,libcdio-cdda2,libcdio-paranoia2,libcdio19,libflac8,libjack0,libkf6configcore6,libkf6coreaddons6,libkf6i18n6,libkf6iconthemes6,libmpg123-0,libogg0,libpipewire-0.3-0,libpostproc55,libpulse0,libqt6core6,libqt6gui6,libqt6multimedia6,libqt6multimediawidgets6,libqt6qml6,libqt6qmlcompiler6,libqt6quick6,libqt6quickcontrols2-6,libqt6spatialaudio6,libqt6svg6,libqt6svgwidgets6,libshout3,libsoxr0,libspa-0.2-jack,libspa-0.2-modules,libswresample3,libswscale5,libvorbis0a,libwavpack1,mauikit \(\>= 4.0.3\),qml6-module-org-kde-kirigami,qml6-module-qtmultimedia,qml6-module-qtquick-controls,qml6-module-qtquick-shapes,qml6-module-qtquick3d-spatialaudio,qt6-declarative" \
 	--nodoc \
 	--strip=no \
 	--stripso=yes \

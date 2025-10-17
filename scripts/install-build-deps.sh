@@ -82,22 +82,33 @@ $APT_COMMAND install -qy - --no-install-recommends \
     gettext \
     git \
     gnupg2 \
-    libcdio-cdda-dev \
+    libavcodec-dev\
+    libavdevice-dev \
+    libavfilter-dev \
+    libavformat-dev \
+    libavutil-dev \
     libcddb2-dev \
+    libcdio-cdda-dev \
     libcdio-dev \
     libcdio-paranoia-dev \
+    libflac-dev \
     libjack-dev \
     libkf6config-dev \
     libkf6coreaddons-dev \
     libkf6i18n-dev \
+    libmpg123-dev \
     libogg-dev \
     libpipewire-0.3-dev \
+    libpostproc-dev \
     libpulse-dev \
     libqt6qmlcompiler6 \
     libshout-dev \
     libsoxr-dev \
     libspa-0.2-dev \
+    libswresample-dev \
+    libswscale-dev \
     libvorbis-dev \
+    libwavpack-dev \
     lintian \
     qt6-base-dev \
     qt6-base-private-dev \
