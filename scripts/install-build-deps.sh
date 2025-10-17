@@ -82,7 +82,6 @@ $APT_COMMAND install -qy - --no-install-recommends \
     gettext \
     git \
     gnupg2 \
-    libaacs-dev \
     libalsaplayer-dev \
     libavcodec-dev\
     libavdevice-dev \
@@ -93,12 +92,14 @@ $APT_COMMAND install -qy - --no-install-recommends \
     libcdio-cdda-dev \
     libcdio-dev \
     libcdio-paranoia-dev \
+    libfaac-dev \
     libflac-dev \
     libgme-dev \
     libjack-dev \
     libkf6config-dev \
     libkf6coreaddons-dev \
     libkf6i18n-dev \
+    libmad0-dev \
     libmpcdec-dev \
     libmpg123-dev \
     libogg-dev \
