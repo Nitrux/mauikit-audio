@@ -79,6 +79,7 @@ $APT_COMMAND install -qy - --no-install-recommends \
     devscripts \
     equivs \
     extra-cmake-modules \
+    flac \
     gettext \
     git \
     gnupg2 \
@@ -93,6 +94,7 @@ $APT_COMMAND install -qy - --no-install-recommends \
     libcdio-dev \
     libcdio-paranoia-dev \
     libfaac-dev \
+    libfdk-aac-dev \
     libflac-dev \
     libgme-dev \
     libjack-dev \
@@ -103,6 +105,7 @@ $APT_COMMAND install -qy - --no-install-recommends \
     libmpcdec-dev \
     libmpg123-dev \
     libogg-dev \
+    libopus-dev \
     libpipewire-0.3-dev \
     libpostproc-dev \
     libpulse-dev \
