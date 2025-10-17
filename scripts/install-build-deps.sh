@@ -82,6 +82,8 @@ $APT_COMMAND install -qy - --no-install-recommends \
     gettext \
     git \
     gnupg2 \
+    libaacs-dev \
+    libalsaplayer-dev \
     libavcodec-dev\
     libavdevice-dev \
     libavfilter-dev \
@@ -92,10 +94,12 @@ $APT_COMMAND install -qy - --no-install-recommends \
     libcdio-dev \
     libcdio-paranoia-dev \
     libflac-dev \
+    libgme-dev \
     libjack-dev \
     libkf6config-dev \
     libkf6coreaddons-dev \
     libkf6i18n-dev \
+    libmpcdec-dev \
     libmpg123-dev \
     libogg-dev \
     libpipewire-0.3-dev \
@@ -103,18 +107,24 @@ $APT_COMMAND install -qy - --no-install-recommends \
     libpulse-dev \
     libqt6qmlcompiler6 \
     libshout-dev \
+    libsidplayfp-dev \
+    libsndfile1-dev \
     libsoxr-dev \
     libspa-0.2-dev \
     libswresample-dev \
     libswscale-dev \
+    libtag1-dev \
     libvorbis-dev \
     libwavpack-dev \
+    libwildmidi-dev \
+    libxmp-dev \
     lintian \
     qt6-base-dev \
     qt6-base-private-dev \
     qt6-declarative-dev \
     qt6-declarative-private-dev \
-    qt6-multimedia-dev
+    qt6-multimedia-dev \
+    wavpack
 
 
 # -- Add package from our repository.
