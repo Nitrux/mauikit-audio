@@ -44,12 +44,24 @@ $APT_COMMAND install -y - --no-install-recommends \
     libcdio-cdda-dev \
     libcdio-dev \
     libcdio-paranoia-dev \
+    libgme-dev \
+    libjack-jackd2-dev \
     libkf6config-dev \
     libkf6coreaddons-dev \
     libkf6i18n-dev \
     libkf6kio-dev \
     libmp3lame-dev \
+    libmpcdec-dev \
+    libogg-dev \
+    libopus-dev \
+    libopusfile-dev \
+    libpipewire-0.3-dev \
+    libpulse-dev \
+    libshout-dev \
+    libsoxr-dev \
+    libspa-0.2-dev \
     libtag1-dev \
+    libvorbis-dev \
     libwildmidi-dev \
     lintian \
     qt6-5compat-dev \
