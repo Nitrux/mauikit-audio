@@ -13,7 +13,7 @@ set -e
 
 git clone --depth 1 --branch "$MAUIKIT_AUDIO_BRANCH" https://github.com/Nitrux/mauikit-audio-src.git
 
-rm -rf mauikit-audio/{examples,LICENSE,README.md}
+rm -rf mauikit-audio-src/{examples,LICENSE,README.md}
 
 
 # -- Compile Source

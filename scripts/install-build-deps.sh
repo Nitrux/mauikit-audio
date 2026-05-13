@@ -36,6 +36,10 @@ $APT_COMMAND install -y - --no-install-recommends \
     gettext \
     git \
     gnupg2 \
+    libarchive-dev \
+    libavcodec-dev \
+    libavformat-dev \
+    libavutil-dev \
     libcddb2-dev \
     libcdio-cdda-dev \
     libcdio-dev \
