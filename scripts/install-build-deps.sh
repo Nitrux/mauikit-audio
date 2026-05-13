@@ -36,10 +36,17 @@ $APT_COMMAND install -y - --no-install-recommends \
     gettext \
     git \
     gnupg2 \
+    libcddb2-dev \
+    libcdio-cdda-dev \
+    libcdio-dev \
+    libcdio-paranoia-dev \
     libkf6config-dev \
     libkf6coreaddons-dev \
     libkf6i18n-dev \
     libkf6kio-dev \
+    libmp3lame-dev \
+    libtag1-dev \
+    libwildmidi-dev \
     lintian \
     qt6-5compat-dev \
     qt6-base-dev \

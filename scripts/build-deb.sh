@@ -70,7 +70,7 @@ checkinstall -D -y \
 	--pakdir=. \
 	--maintainer=uri_herrera@nxos.org \
 	--provides=mauikit-audio \
-	--requires="libc6,libkf6coreaddons6,libkf6i18n6,libqt6core5compat6,libqt6core6t64,libqt6gui6,libqt6qml6,libqt6quick6,libqt6quickcontrols2-6,libqt6quickshapes6,mauikit \(\>= 4.0.3\),qml6-module-org-kde-kirigami,qml6-module-qtquick-controls,qml6-module-qtquick-shapes" \
+	--requires="libc6,libcddb2,libcdio-cdda2t64,libcdio-paranoia2t64,libcdio19t64,libkf6coreaddons6,libkf6i18n6,libmp3lame0,libqt6core5compat6,libqt6core6t64,libqt6gui6,libqt6qml6,libqt6quick6,libqt6quickcontrols2-6,libqt6quickshapes6,libtag2,libwildmidi2,mauikit \(\>= 4.0.3\),qml6-module-org-kde-kirigami,qml6-module-qtquick-controls,qml6-module-qtquick-shapes" \
 	--nodoc \
 	--strip=no \
 	--stripso=yes \
