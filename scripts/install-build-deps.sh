@@ -32,6 +32,7 @@ $APT_COMMAND install -y - --no-install-recommends \
     devscripts \
     equivs \
     extra-cmake-modules \
+    ffmpeg \
     gettext \
     git \
     gnupg2 \
