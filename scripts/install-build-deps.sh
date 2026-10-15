@@ -26,19 +26,29 @@ $APT_COMMAND install -y --no-install-recommends \
     automake \
     autotools-dev \
     build-essential \
-    checkinstall \
-    cmake \
+    meson \
+    ninja-build \
+    pkg-config \
     curl \
     devscripts \
     equivs \
-    extra-cmake-modules \
     ffmpeg \
     gettext \
     git \
     gnupg2 \
     libarchive-dev \
+    libasound2-dev \
+    libfaad-dev \
+    libflac-dev \
+    libmad0-dev \
+    libmpg123-dev \
+    libsidplayfp-dev \
+    libsndfile1-dev \
+    libwavpack-dev \
+    libxmp-dev \
     libavcodec-dev \
     libavformat-dev \
+    libavfilter-dev \
     libavutil-dev \
     libcddb2-dev \
     libcdio-cdda-dev \
@@ -66,6 +76,7 @@ $APT_COMMAND install -y --no-install-recommends \
     lintian \
     qt6-5compat-dev \
     qt6-base-dev \
+    qt6-base-dev-tools \
     qt6-base-private-dev \
     qt6-declarative-dev \
     qt6-declarative-private-dev \
