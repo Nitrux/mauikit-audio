@@ -59,7 +59,7 @@ Priority: optional
 Architecture: ${TARGET_ARCH}
 Maintainer: uri_herrera@nxos.org
 Provides: mauikit-audio
-Depends: libqt6dbus6,libqt6network6,libqt6sql6,libqt6widgets6,libarchive13,libc6,libcddb2,libcdio-cdda2t64,libcdio-paranoia2t64,libcdio19t64,libgme0,libjack-jackd2-0,libkf6coreaddons6,libkf6i18n6,libmp3lame0,libmpcdec6,libogg0,libopus0,libopusfile0,libpipewire-0.3-0t64,libpulse0,libqt6core5compat6,libqt6core6t64,libqt6gui6,libqt6qml6,libqt6quick6,libqt6quickcontrols2-6,libqt6quickshapes6,libshout3,libsoxr0,libspa-0.2-modules,libtag2,libvorbis0a,libvorbisenc2,libvorbisfile3,libwildmidi2,mauikit (>= 4.0.4),qml6-module-org-kde-kirigami,qml6-module-qtquick-controls,qml6-module-qtquick-shapes
+Depends: libqt6dbus6,libqt6network6,libqt6sql6,libqt6widgets6,libarchive13,libc6,libcddb2,libcdio-cdda2t64,libcdio-paranoia2t64,libcdio19t64,libgme0,libjack-jackd2-0,libkf6coreaddons6,libkf6i18n6,libmp3lame0,libmpcdec6,libogg0,libopus0,libopusfile0,libpipewire-0.3-0t64,libpulse0,libqt6core5compat6,libqt6core6t64,libqt6gui6,libqt6qml6,libqt6quick6,libqt6quickcontrols2-6,libqt6quickshapes6,libshout3,libsoxr0,libspa-0.2-modules,libtag2,libvorbis0a,libvorbisenc2,libvorbisfile3,libwildmidi2,mauikit (>= 4.0.5),qml6-module-org-kde-kirigami,qml6-module-qtquick-controls,qml6-module-qtquick-shapes
 Description: mauikit-audio
  mauikit-audio
 CONTROL
